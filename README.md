@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moksh upadhyay. I am studying Bachelors of Computer Applications at SGTBIMIT.
 - 👀 I’m interested in Artificial Intelligence, Web Development and Game Development
 - 🌱 I’m currently learning Java, and learned C, C++, VB.NET
-- 💞️ I’m looking for interships.
+- 💞️ I’m looking for internships.
 - 📫 How to reach me : moksh_upadhyay57 (Instagram), Moksh Upadhyay(Facebook)
 
 <!---
