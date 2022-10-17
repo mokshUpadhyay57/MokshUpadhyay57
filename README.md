@@ -1,3 +1,7 @@
+[![@moksh57's Holopin board](https://holopin.me/moksh57)](https://holopin.io/@moksh57)
+
+
+
 - 👋 Hi, I’m Moksh upadhyay. I am studying Bachelors of Computer Applications at SGTBIMIT.
 - 👀 I’m interested in Artificial Intelligence, Web Development and Game Development
 - 🌱 I’m currently learning React Js, and learned C, C++, Python with Django
