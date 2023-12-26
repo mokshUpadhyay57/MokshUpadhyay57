@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Moksh upadhyay. I am studying Master of Computer Applications at CDAC, Noida.
-- 🌱 I’m currently learning Javascript, NodeJS, Java.
+- 👋 Hi, I’m Moksh upadhyay. pursuing Master of Computer Applications at CDAC, Noida.
+- 🌱 I’m currently learning Javascript, NodeJS, and Java.
