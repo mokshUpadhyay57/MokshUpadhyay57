@@ -16,6 +16,7 @@
 <a href="https://linkedin.com/in/mokshupadhyay57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mokshupadhyay57" height="30" width="40" /></a>
 <a href="https://fb.com/moksh.upadhyay.57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moksh.upadhyay.57" height="30" width="40" /></a>
 <a href="https://instagram.com/moksh_upadhyay57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moksh_upadhyay57" height="30" width="40" /></a>
+<a href="https://medium.com/@mokshupadhyay5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mokshupadhyay5" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mokshupadhyay5/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mokshupadhyay5/profile" height="30" width="40" /></a>
 </p>
 
