@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Core Java, Python**
 
-- 📫 How to reach me **mokshupadhyay.cd**
+- 📫 How to reach me **mokshupadhyay.cs57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
