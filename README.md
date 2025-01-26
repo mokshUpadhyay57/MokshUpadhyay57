@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Moksh Upadhyay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from Delhi, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokshupadhyay57&label=Profile%20views&color=0e75b6&style=flat" alt="mokshupadhyay57" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript, SpringBoot**
 
 - 💬 Ask me about **Core Java, Python**
 
