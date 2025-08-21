@@ -3,10 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokshupadhyay57&label=Profile%20views&color=0e75b6&style=flat" alt="mokshupadhyay57" /> </p>
 
-- 🌱 I’m currently learning **Javascript, SpringBoot**
-
-- 💬 Ask me about **Core Java, Python**
-
+- 🌱 Learning and building backend solutions with **Java** & **Spring Framework**  
+- 🛠 Skilled in **REST API development**, **API testing** (Postman)
 - 📫 How to reach me **mokshupadhyay.cs57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
