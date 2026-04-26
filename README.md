@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Moksh Upadhyay</h1>
-<h3 align="center">A passionate Software developer from Delhi, India</h3>
+# Hi 👋, I'm Moksh Upadhyay
 
+### Backend Developer | Android • Web Dev | Java • Spring Boot
+
+I build **production-ready backend systems**, along with **Android and web applications**, focused on performance, clean architecture, and real-world usability.
+
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokshupadhyay57&label=Profile%20views&color=0e75b6&style=flat" alt="mokshupadhyay57" /> </p>
 
 - 🌱 Learning and building backend solutions with **Java** & **Spring Framework**  
