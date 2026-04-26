@@ -4,7 +4,6 @@
 
 I build **production-ready backend systems**, along with **Android and web applications**, focused on performance, clean architecture, and real-world usability.
 
----
 
 ## 🚀 What I Do
 - Design and build **REST APIs** using Java & Spring Boot  
@@ -13,7 +12,6 @@ I build **production-ready backend systems**, along with **Android and web appli
 - Focus on **scalable system design** and maintainable code  
 - Build real-world projects, not tutorials  
 
----
 
 ## 🧩 Current Focus
 - Backend system design (scalability, performance)  
@@ -21,7 +19,6 @@ I build **production-ready backend systems**, along with **Android and web appli
 - Freelance backend/API projects  
 - Building production-grade portfolio projects  
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
