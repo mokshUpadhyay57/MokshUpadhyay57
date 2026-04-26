@@ -53,9 +53,3 @@ I build **production-ready backend systems**, along with **Android and web appli
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokshupadhyay57&show_icons=true&locale=en&layout=compact" alt="mokshupadhyay57" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mokshupadhyay57&show_icons=true&locale=en" alt="mokshupadhyay57" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mokshupadhyay57&" alt="mokshupadhyay57" /></p>
