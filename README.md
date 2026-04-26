@@ -5,11 +5,23 @@
 I build **production-ready backend systems**, along with **Android and web applications**, focused on performance, clean architecture, and real-world usability.
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mokshupadhyay57&label=Profile%20views&color=0e75b6&style=flat" alt="mokshupadhyay57" /> </p>
 
-- 🌱 Learning and building backend solutions with **Java** & **Spring Framework**  
-- 🛠 Skilled in **REST API development**, **API testing** (Postman)
-- 📫 How to reach me **mokshupadhyay.cs57@gmail.com**
+## 🚀 What I Do
+- Design and build **REST APIs** using Java & Spring Boot  
+- Develop **Android apps** and **web applications**  
+- Work with **databases** (MySQL, PostgreSQL, MongoDB)  
+- Focus on **scalable system design** and maintainable code  
+- Build real-world projects, not tutorials  
+
+---
+
+## 🧩 Current Focus
+- Backend system design (scalability, performance)  
+- Android + Web app development  
+- Freelance backend/API projects  
+- Building production-grade portfolio projects  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
